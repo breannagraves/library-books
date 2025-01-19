@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://media.istockphoto.com/vectors/cartoon-library-vector-id1003251564?k=6&m=1003251564&s=170667a&w=0&h=HVxotwkK6AayUtyuSdE3b7NcFMv4oa8MhbPyEbw4Kv8=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+nav {
+  background: aliceblue;
+  padding: 16px 32px;
+}
+
+nav a {
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+table{
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aliceblue;
+  padding:20px 40px;
+  margin-bottom: 40px;
+  
+}
+
+h2{
+  text-align: center;
+  color:#472b6b;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+button{
+  /* padding: 10px 15px; */
+	border-radius: 10px;
+  color:whitesmoke;
+  cursor: pointer;
+	font-size: 16px;
+	transition: 0.5s;
+	background-color: #6eafba;
+  border-color:#6eafba;
+	font-weight: 500;
+}
+
+td{
+  color:#472b6b;
+}
+
+/* nav a.active {
+  text-decoration: none;
+  font-weight: bold;
+} */
