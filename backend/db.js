@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const mongoConn = [removed for privacy];
+const mongoConn = [connection URI];
 
 // mongoose.connect(mongoConn, { useNewUrlParser: true, useUnifiedTopology: true })
 // const connection = mongoose.connection;
